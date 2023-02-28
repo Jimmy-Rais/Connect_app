@@ -2,9 +2,11 @@
 
 Connect is a chat application developped using Flutter(Open source mobile application
 development framework created by Google,Flutter uses the Dart programming language)
-##Author
-**Jimmy Rais** [https://github.com/Jimmy-Rais]
+#Author
+
+*Jimmy Rais* [https://github.com/Jimmy-Rais]
                [jimmyrais63@gmail.com]
+               
 **SCREEN 1**✨
 
 ![Screenshot (48)](https://user-images.githubusercontent.com/81222691/221850536-52dd821e-98e6-424a-8f2a-6bcaa1f8b4b7.png)
