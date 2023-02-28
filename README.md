@@ -5,9 +5,7 @@ development framework created by Google,Flutter uses the Dart programming langua
 
 **AUTHOR**
 
-*Jimmy Rais* [https://github.com/Jimmy-Rais]
-
-               [jimmyrais63@gmail.com]
+*Jimmy Rais* [https://github.com/Jimmy-Rais][jimmyrais63@gmail.com]
                
 **SCREEN 1**✨
 
