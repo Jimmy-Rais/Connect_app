@@ -1,7 +1,7 @@
 # Connect
 
-Connect is a chat application developped using Flutter(Open source mobile application
-development framework created by Google,Flutter uses the Dart programming language)
+Connect is a chat application developped using **Flutter**(Open source mobile application
+development framework created by Google,Flutter uses the **Dart programming language**)
 
 **AUTHOR**
 
